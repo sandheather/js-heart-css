@@ -1,0 +1,11 @@
+$('header').append('.masthead');
+$('h1').remove('.big-heading').append('.logo')
+$('main').append('.wrapper')
+$('main p:first-child').append('.intro')
+$('h2').append('.slug-head')
+$('img').append('.slug-head')
+$('li:first-child').append('.slug-list-first')
+$('li:last-child').append('.slug-list-last')
+$('dl').append('.classification')
+$('dt').remove(.big-label)
+$('li:last-child')
